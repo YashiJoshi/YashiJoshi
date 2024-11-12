@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashi Joshi</h1>
+<h1 align="center">Hi 👋, I'm Yashi Joshii</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
